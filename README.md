@@ -80,4 +80,3 @@ The dataset used is the **Telco Customer Churn** dataset, which contains custome
 The final **Random Forest Classifier** achieved the following results on the test data:
 
 - **Accuracy Score:** **78.2%**
-- **Confusion Matrix:**
